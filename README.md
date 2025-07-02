@@ -4,13 +4,9 @@ A lightweight, interactive web application that lets users browse through the pa
 
 ---
 
-Here’s the updated section of the `README.md` with your live deployment link:
-
----
-
 ## 🌐 Live Demo
 
-> **[Quran Page Viewer is Live!](https://quran-mushaf.netlify.app)**
+> <a href="https://quran-mushaf.netlify.app" target="_blank">👉 Quran Page Viewer is Live!</a>
 > Browse the Quran page by page with Surah details, Ayah markers, and elegant styling.
 
 ---
@@ -114,6 +110,4 @@ Documentation: [https://alquran.cloud/api](https://alquran.cloud/api)
 
 ## ✍️ Author
 
-**Mohammad Saad Ansari**
-
----
+## **Mohammad Saad Ansari**
