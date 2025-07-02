@@ -11,7 +11,7 @@ The Quran Page Viewer is powered by four JavaScript files that follow the **MVC 
 
 ---
 
-### 1\. `model.js` – The Data Layer 📡
+## 1\. `model.js` – The Data Layer 📡
 
 This file is the **Model** in MVC. It handles **data fetching** from external APIs and supplies that data to the rest of the app.
 
@@ -50,7 +50,7 @@ const QuranModel = {
 
 ---
 
-### 2\. `view.js` – The Display Layer 👁️
+## 2\. `view.js` – The Display Layer 👁️
 
 This is the **View** in MVC. It manages **everything the user sees** on the screen and updates the DOM based on the data it receives.
 
@@ -77,7 +77,7 @@ async updatePage() {
 
 ---
 
-### 3\. `controller.js` – The Brain of the App 🧠
+## 3\. `controller.js` – The Brain of the App 🧠
 
 This file serves as the **Controller** — it connects the Model and View. It decides **what to show and when**, based on user input and app state.
 
@@ -109,7 +109,7 @@ async getQuranPageData(page) {
 
 ---
 
-### 4\. `script.js` – The App Starter 🔁
+## 4\. `script.js` – The App Starter 🔁
 
 This is the **entry point** of the application. It initializes everything when the page loads.
 
