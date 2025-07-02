@@ -13,7 +13,7 @@ The Quran Page Viewer is designed with simplicity, clarity, and reverence in min
 
 ### 🏠 Landing on the Home Page
 
-When a user visits the app at [quran-mushaf.netlify.app](http://quran-mushaf.netlify.app){:target="\_blank"}, they are greeted with:
+When a user visits the app at [quran-mushaf.netlify.app](http://quran-mushaf.netlify.app), they are greeted with:
 
 * A beautiful **dark-themed interface** that’s easy on the eyes, especially during night reading.
     
