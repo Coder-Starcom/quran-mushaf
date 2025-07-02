@@ -9,7 +9,7 @@ tags: html
 
 The `index.html` file is the main webpage structure for the Quran Page Viewer app. It sets up the page elements and connects all the styles and scripts that make the app interactive and visually appealing.
 
-### Key Parts:
+### Key Parts
 
 * **DOCTYPE & Language**
     
@@ -18,9 +18,8 @@ The `index.html` file is the main webpage structure for the Quran Page Viewer ap
     <html lang="ar">
     ```
     
-
-Defines the document as an HTML5 page and sets the language to Arabic (`lang="ar"`) for proper text direction and accessibility.
-
+    Defines the document as an HTML5 page and sets the language to Arabic (`lang="ar"`) for proper text direction and accessibility.
+    
 * **Meta Tags**
     
     ```html
