@@ -4,9 +4,14 @@ A lightweight, interactive web application that lets users browse through the pa
 
 ---
 
+Here’s the updated section of the `README.md` with your live deployment link:
+
+---
+
 ## 🌐 Live Demo
 
-> _Coming Soon_ — Host the project using GitHub Pages, Netlify, or Vercel and update this section with the URL.
+> **[Quran Page Viewer is Live!](https://quran-mushaf.netlify.app)**
+> Browse the Quran page by page with Surah details, Ayah markers, and elegant styling.
 
 ---
 
