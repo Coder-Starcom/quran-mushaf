@@ -2,7 +2,7 @@
 title: "[01] - 03 - Understanding index.html 📝"
 datePublished: Fri Mar 21 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcm0bk1w000702lb75jm4g9w
-slug: 03-understanding-indexhtml
+slug: 01-03-understanding-indexhtml
 tags: html
 
 ---
