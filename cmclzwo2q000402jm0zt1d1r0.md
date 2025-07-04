@@ -1,8 +1,8 @@
 ---
-title: "01 - Architecture & Tech Stack ⚙️🖥️"
+title: "[01] - 01 - Architecture & Tech Stack ⚙️🖥️"
 datePublished: Fri Mar 07 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmclzwo2q000402jm0zt1d1r0
-slug: 01-architecture-and-tech-stack
+slug: 01-01-architecture-and-tech-stack
 tags: architecture, tech-stack
 
 ---
