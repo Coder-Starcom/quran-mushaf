@@ -1,8 +1,8 @@
 ---
-title: "06 - Walking Through the User Experience 🌐📖"
+title: "[01] - 06 - Walking Through the User Experience 🌐📖"
 datePublished: Fri Apr 11 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcm0wkvw000502jl2148dzwi
-slug: 06-walking-through-the-user-experience
+slug: 01-06-walking-through-the-user-experience
 tags: user-experience
 
 ---
