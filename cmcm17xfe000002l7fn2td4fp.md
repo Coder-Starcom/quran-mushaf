@@ -1,8 +1,8 @@
 ---
-title: "🔗 Project Links"
+title: "[01]🔗 Project Links"
 datePublished: Fri May 02 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcm17xfe000002l7fn2td4fp
-slug: project-links
+slug: 01-project-links
 tags: links
 
 ---
