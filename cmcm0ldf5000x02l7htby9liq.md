@@ -1,8 +1,8 @@
 ---
-title: "04 - Understanding styles.css 🎨"
+title: "[01] - 04 - Understanding styles.css 🎨"
 datePublished: Fri Mar 28 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcm0ldf5000x02l7htby9liq
-slug: 04-understanding-stylescss
+slug: 01-04-understanding-stylescss
 tags: css
 
 ---
