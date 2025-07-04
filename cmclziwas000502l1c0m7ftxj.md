@@ -1,8 +1,8 @@
 ---
-title: "Inspiration Behind The Project"
+title: "[01] - Inspiration Behind The Project"
 datePublished: Fri Feb 28 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmclziwas000502l1c0m7ftxj
-slug: inspiration-behind-the-project
+slug: 01-inspiration-behind-the-project
 tags: intro
 
 ---
