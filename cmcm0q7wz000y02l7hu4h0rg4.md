@@ -2,7 +2,7 @@
 title: "[01] - 05 - Understanding the JavaScript Files 🧠📜"
 datePublished: Fri Apr 04 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcm0q7wz000y02l7hu4h0rg4
-slug: 05-understanding-the-javascript-files
+slug: 01-05-understanding-the-javascript-files
 tags: mvc, js
 
 ---
