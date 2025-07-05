@@ -1,6 +1,6 @@
 ---
 title: "[02] - 03 - Understanding index.html"
-datePublished: Thu May 29 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Aug 21 2024 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcqgx2ur000402i81uoz3udg
 slug: 02-03-understanding-indexhtml
 tags: html
