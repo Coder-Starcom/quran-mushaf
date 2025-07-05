@@ -1,6 +1,6 @@
 ---
 title: "[02] - Inspiration Behind the Project"
-datePublished: Thu May 15 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Jul 31 2024 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcot4ll4001n02jldjn17b5r
 slug: 02-inspiration-behind-the-project
 tags: intro
