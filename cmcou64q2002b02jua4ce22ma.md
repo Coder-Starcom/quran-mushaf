@@ -1,6 +1,6 @@
 ---
 title: "[02] - 01 - Architecture & Tech Stack"
-datePublished: Thu May 22 2025 21:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Aug 07 2024 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcou64q2002b02jua4ce22ma
 slug: 02-01-architecture-and-tech-stack
 tags: tech-stack, arch
