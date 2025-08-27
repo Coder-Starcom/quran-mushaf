@@ -195,7 +195,3 @@ td, th {
     
 
 ---
-
-## Summary ✨
-
-The `styles.css` makes the Quran Page Viewer visually appealing, easy to read, and usable across devices — combining traditional aesthetics with modern responsiveness.
