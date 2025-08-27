@@ -7,14 +7,6 @@ tags: architecture, tech-stack
 
 ---
 
-### What is Architecture? 🏗️
-
-Think of **architecture** as the blueprint or plan of a building — it shows how everything fits together and works. In a web app, architecture is the way different parts of the app are organized and how they communicate with each other to make the whole thing work smoothly.
-
-### What is Tech Stack? 🛠️
-
-A **tech stack** is just the set of tools and technologies used to build a project, like the ingredients in a recipe.
-
 ### MVC (Model-View-Controller) Architecture 🏗️
 
 To keep the project clean and maintainable, I used the **MVC design pattern**:
