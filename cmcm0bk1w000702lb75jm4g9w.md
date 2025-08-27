@@ -92,6 +92,3 @@ The `index.html` file is the main webpage structure for the Quran Page Viewer ap
 
 ---
 
-### Summary
-
-The `index.html` file provides the structure and entry point for the Quran Page Viewer, linking styles and scripts that work together to deliver a smooth, interactive experience for exploring the Quran page by page.
