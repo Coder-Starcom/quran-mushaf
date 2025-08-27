@@ -7,7 +7,7 @@ tags: mvc, js
 
 ---
 
-The Quran Page Viewer is powered by four JavaScript files that follow the **MVC (Model-View-Controller)** architecture. Let’s break them down one by one to see how they each contribute to the project.
+The Quran Page Viewer is powered by four JavaScript files that follow the **MVC (Model-View-Controller)** architecture.
 
 ---
 
